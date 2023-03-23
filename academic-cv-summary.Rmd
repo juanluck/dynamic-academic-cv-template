@@ -1,13 +1,13 @@
 ---
 title: "Research publication summary"
-author: "Marie Skłodowska-Curie"
+author: "Juan Luis Jiménez Laredo"
 date: "`r Sys.Date()`"
 output:
   word_document: default
   pdf_document: default
 abstract: |
   (Mostly) Automatically generated summary of the academic/publishing curriculum.
-myId: EmD_lTEAAAAJ
+myId: lqrz4PEAAAAJ
 ---
 
 ```{r setup,echo=FALSE,message=FALSE}
